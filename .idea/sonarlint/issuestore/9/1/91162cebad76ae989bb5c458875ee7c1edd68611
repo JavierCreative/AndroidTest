@@ -1,0 +1,25 @@
+
+{
+java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.( ŠÙ 8øß  ¶/
+S
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(Òşííıÿÿÿÿ8úß  ¶/
+Q
+java:S1874%"/Remove this use of "execute"; it is deprecated.(ÄÎ³¶øÿÿÿÿ8ûß  ¶/
+M
+java:S1874%"+Remove this use of "get"; it is deprecated.(ÄÎ³¶øÿÿÿÿ8ûß  ¶/
+{
+java:S2142:"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.( ŠÙ 8ãí ¶/
+S
+java:S18741"1Remove this use of "AsyncTask"; it is deprecated.(¯ºÄøÿÿÿÿ8ãí ¶/
+Q
+java:S18748"/Remove this use of "execute"; it is deprecated.(ÄÎ³¶øÿÿÿÿ8åí ¶/
+M
+java:S18748"+Remove this use of "get"; it is deprecated.(ÄÎ³¶øÿÿÿÿ8åí ¶/
+{
+java:S2142M"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.( ŠÙ 8Ïèí ¶/
+S
+java:S1874D"1Remove this use of "AsyncTask"; it is deprecated.(›óôúÿÿÿÿ8Ğèí ¶/
+Q
+java:S1874K"/Remove this use of "execute"; it is deprecated.(ÄÎ³¶øÿÿÿÿ8Ñèí ¶/
+K
+java:S1068"0Remove this unused "mApplication" private field.(«Æ•Õúÿÿÿÿ

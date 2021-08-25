@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="title_1_onboarding_string">This is a large text example for title 1</string>
+    <string name="title_2_onboarding_string">This is a large text example for title 2</string>
+    <string name="title_3_onboarding_string">This is a large text example for title 3</string>
+    <string name="get_started_string">Get started</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="access_key">Yy_X3lZde_KPiCa7Mua4Q4L96aAy8egMviyvcnLO4WA</string>
+    <string name="secret_key">_u9E8Ce1XTeRjdvmzqBGlVT87oMPxQEdIs-M7OJFIZo</string>
+    <string name="error_string">Error</string>
+    <string name="accept_string">Accept</string>
+    <string name="total_likes_string">Total likes</string>
+    <string name="total_photos_string">Total photos</string>
+</resources>

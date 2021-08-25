@@ -1,0 +1,12 @@
+
+m
+java:S1450"WRemove the "retrofit" field and declare it as a local variable in the relevant methods.(ƒ¼Žò
+O
+java:S1118":Add a private constructor to hide the implicit public one.(ˆ›Ím
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8ø©Í—¶/
+N
+java:S1128	",Remove this unused import 'okhttp3.Headers'.(¿¥ÃÈúÿÿÿÿ8ù©Í—¶/
+M
+java:S1128
+"0Remove this unused import 'okhttp3.Interceptor'.(ËÖ‹ã8ù©Í—¶/
